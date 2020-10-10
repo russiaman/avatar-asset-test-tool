@@ -16,7 +16,7 @@
       "overrideReplaces": [],
       "overrideHides": []
     },
-    { "type": "BaseFemale", "model": "F_niftyblocksmith_helmet.glb" }
+    { "type": "BaseFemale", "model": "M_niftyblocksmith_helmet.glb" }
   ],
   "rarity": "legendary",
   "description": "This unique helmet will keep your thoughts positively focused. Zero toxicity."
