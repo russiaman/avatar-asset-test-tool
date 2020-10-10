@@ -16,7 +16,7 @@
       "overrideReplaces": [],
       "overrideHides": []
     },
-    { "type": "BaseFemale", "model": "F_niftyblocksmith_drone.glb" }
+    { "type": "BaseFemale", "model": "M_niftyblocksmith_drone.glb" }
   ],
   "rarity": "legendary",
   "description": "BlockSmith’s pet. "
