@@ -7,7 +7,7 @@
   "tags": ["dappcraft", "hairs", "secret","neon", "weird", "cyberpunk"],
   "category": "helmet",
   "replaces": ["earring","helmet", "tiara","mask"],
-  "hides": ["hat","hair","facial_hair"],
+  "hides": ["hair"],
 
   "main": [
     {
