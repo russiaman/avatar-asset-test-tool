@@ -1,11 +1,9 @@
 {
-  "id": "china",
-  "name": "china",
+  "id": "china_lower_body",
+  "name": "china_lower_body",
   "i18n": {
-    "en": "china"
-  },
-  "tags": [
-    "style","electric", "dappcraft","neon","dcstudio","digital","cool","strange"],
+    "en": "DC META 01010100"},
+  "tags": ["moon","lower_body", "electro", "space"],
   "category": "lower_body",
   "replaces": [
    ],
@@ -15,15 +13,15 @@
   "main": [
 {
 "type": "BaseMale", 
-"model": "M_china_lower.glb", 
+"model": "M_china_lbody.glb", 
 "overrideReplaces": [
    ],
    "overrideHides": [
    ]
 },
 {"type": "BaseFemale", 
-"model": "F_china_lower.glb"}
+"model": "F_china_lbody.glb"}
   ],
-  "rarity": "legendary",
-  "description": "01000100 01000011 00100000 01001101 01000101 01010100 01000001 00100000 01100010 01101111 01100100 01111001"
+  "rarity": "mythic",
+  "description": "01000100 01000011 00100000 01001101 01000101 01010100 01000001 00100000 01101101 01101001 01101110 01100100"
 }
