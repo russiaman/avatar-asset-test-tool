@@ -1,0 +1,29 @@
+{
+  "id": "china",
+  "name": "china",
+  "i18n": {
+    "en": "china"
+  },
+  "tags": [
+    "style","electric", "dappcraft","neon","dcstudio","digital","cool","strange"],
+  "category": "lower_body",
+  "replaces": [
+   ],
+   "hides": [
+   ],
+
+  "main": [
+{
+"type": "BaseMale", 
+"model": "M_china.glb", 
+"overrideReplaces": [
+   ],
+   "overrideHides": [
+   ]
+},
+{"type": "BaseFemale", 
+"model": "F_china.glb"}
+  ],
+  "rarity": "legendary",
+  "description": "01000100 01000011 00100000 01001101 01000101 01010100 01000001 00100000 01100010 01101111 01100100 01111001"
+}
