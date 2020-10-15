@@ -1,39 +1,33 @@
 {
-    "id": "china_hair",
-    "name": "china_flying_hair",
-    "i18n": {
-        "en": "China flying boyHair",
-        "es": "Vestimenta Voladora y Colorida China"
-    },
-    "tags": [
-        "china",
-        "exclusive",
-        "hair",
-        "boyHair",
-        "decentraland",
-        "community",
-        "wearables",
-        "flying"
-    ],
-    "category": "hair",
-    "replaces": [
-        "hair"
-    ],
-    "hides": [
-    ],
-    "main": [
-        {
-            "type": "BaseMale",
-            "model": "M_china_hair.glb",
-            "overrideReplaces": [
-            ],
-            "overrideHides": [
-            ]
-        }
-    ],
-    {"type": "BaseFemale", 
-    "model": "F_china_hair.glb"}
-      ],
-    "rarity": "legendary",
-    "description": "Chinese Flying clothing is the expression of yearning for the sky and space, which is the most talented creation of Chinese artists."
+  "id": "china_hair",
+  "name": "china_hair",
+  "i18n": {
+    "en": "DC META 01000100"
+  },
+  "tags": [
+    "reality",
+    "secrets",
+    "hair"
+   ],
+  "category": "hair",
+  "replaces": [
+   "hair"
+   ],
+   "hides": [
+   ],
+
+  "main": [
+{
+"type": "BaseMale", 
+"model": "M_china_hair.glb", 
+"overrideReplaces": [
+   ],
+   "overrideHides": [
+   ]
+},
+{"type": "BaseFemale", 
+"model": "F_china_hair.glb"}
+  ],
+  "rarity": "mythic",
+  "description": "01000100 01000011 00100000 01001101 01000101 01010100 01000001 00100000 01100110 01100101 01100101 01110100"
 }
